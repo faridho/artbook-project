@@ -14,6 +14,7 @@
 		F8A8F1BA242BA118008E191F /* ArtBookProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8A8F1B8242BA118008E191F /* ArtBookProject.xcdatamodeld */; };
 		F8A8F1BC242BA119008E191F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8A8F1BB242BA119008E191F /* Assets.xcassets */; };
 		F8A8F1BF242BA119008E191F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8A8F1BD242BA119008E191F /* LaunchScreen.storyboard */; };
+		F8A8F1C7242BA497008E191F /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A8F1C6242BA497008E191F /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F8A8F1BB242BA119008E191F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8A8F1BE242BA119008E191F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8A8F1C0242BA119008E191F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8A8F1C6242BA497008E191F /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F8A8F1AF242BA118008E191F /* AppDelegate.swift */,
 				F8A8F1B1242BA118008E191F /* SceneDelegate.swift */,
 				F8A8F1B3242BA118008E191F /* ViewController.swift */,
+				F8A8F1C6242BA497008E191F /* DetailsViewController.swift */,
 				F8A8F1B5242BA118008E191F /* Main.storyboard */,
 				F8A8F1BB242BA119008E191F /* Assets.xcassets */,
 				F8A8F1BD242BA119008E191F /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				F8A8F1B4242BA118008E191F /* ViewController.swift in Sources */,
 				F8A8F1B0242BA118008E191F /* AppDelegate.swift in Sources */,
 				F8A8F1B2242BA118008E191F /* SceneDelegate.swift in Sources */,
+				F8A8F1C7242BA497008E191F /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
